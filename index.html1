@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Queens Gadgets - Premium Electronics Store</title>
+    <title> Queens Gadgets - Premium Electronics Store</title>
     <style>
         :root {
             --primary: #2A2E35;
@@ -339,17 +339,17 @@
     <section class="contact-section">
         <h2>Need Help? Chat with Us</h2>
         <div style="margin-top: 2rem;">
-            <a href="https://wa.me/233YOUR_NUMBER" class="whatsapp-btn" target="_blank">
+            <a href="https://wa.me/233207659704" class="whatsapp-btn" target="_blank">
                 <i class="fab fa-whatsapp"></i> WhatsApp Support
             </a>
-            <a href="https://wa.me/233SECOND_NUMBER" class="whatsapp-btn" target="_blank">
+            <a href="https://wa.me/233207659704" class="whatsapp-btn" target="_blank">
                 <i class="fab fa-whatsapp"></i> Sales Support
             </a>
         </div>
     </section>
 
     <footer>
-        <p>© 2024 GadgetHub Ghana. All rights reserved</p>
+        <p>© 2025 GadgetHub Ghana. All rights reserved</p>
         <p>Secure Shopping | Fast Delivery | Quality Guaranteed</p>
     </footer>
 
